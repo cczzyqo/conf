@@ -1,0 +1,20 @@
+{
+  "name": "IEEE BIBM 2026",
+  "description": "IEEE International Conference on Bioinformatics and Biomedicine. December 1–4, 2026 · Dallas, USA.",
+  "venue": "IEEE BIBM 2026",
+  "venueUrl": "https://www3.cs.stonybrook.edu/~bibm2026/",
+  "steps": [
+    { "label": "Idea Brainstorm",   "status": "pending" },
+    { "label": "Experiment Design", "status": "pending" },
+    { "label": "Running Exp",       "status": "pending" },
+    { "label": "Results",           "status": "pending" },
+    { "label": "Paper Drafting",    "status": "pending" },
+    { "label": "Submission",        "status": "pending" }
+  ],
+  "timeline": [
+    { "label": "Full Paper Due",    "date": "2026-07-05" },
+    { "label": "Acceptance Notice", "date": "2026-09-25" },
+    { "label": "Camera Ready",      "date": "2026-10-25" },
+    { "label": "Conference",        "date": "2026-12-01" }
+  ]
+}
