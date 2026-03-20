@@ -1,0 +1,21 @@
+{
+  "name": "ICML 2026",
+  "description": "International Conference on Machine Learning 2026.",
+  "venue": "ICML 2026",
+  "venueUrl": "https://icml.cc/Conferences/2026/Dates",
+  "steps": [
+    { "label": "Idea Brainstorm",   "status": "pending" },
+    { "label": "Experiment Design", "status": "pending" },
+    { "label": "Running Exp",       "status": "pending" },
+    { "label": "Results",           "status": "pending" },
+    { "label": "Paper Drafting",    "status": "pending" },
+    { "label": "Submission",        "status": "pending" }
+  ],
+  "timeline": [
+    { "label": "Abstract Due",    "date": "2026-01-23" },
+    { "label": "Full Paper Due",  "date": "2026-01-28" },
+    { "label": "Reviews Out",     "date": "2026-03-24" },
+    { "label": "Author Response", "date": "2026-03-30" },
+    { "label": "Notification",    "date": "2026-04-30" }
+  ]
+}
