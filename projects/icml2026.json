@@ -4,12 +4,12 @@
   "venue": "ICML 2026",
   "venueUrl": "https://icml.cc/Conferences/2026/Dates",
   "steps": [
-    { "label": "Idea Brainstorm",   "status": "pending" },
-    { "label": "Experiment Design", "status": "pending" },
-    { "label": "Running Exp",       "status": "pending" },
-    { "label": "Results",           "status": "pending" },
-    { "label": "Paper Drafting",    "status": "pending" },
-    { "label": "Submission",        "status": "pending" }
+    { "label": "Idea Brainstorm",   "status": "done" },
+    { "label": "Experiment Design", "status": "done" },
+    { "label": "Running Exp",       "status": "done" },
+    { "label": "Results",           "status": "done" },
+    { "label": "Paper Drafting",    "status": "done" },
+    { "label": "Submission",        "status": "done" }
   ],
   "timeline": [
     { "label": "Abstract Due",    "date": "2026-01-23" },
