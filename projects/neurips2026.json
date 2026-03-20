@@ -1,0 +1,20 @@
+{
+  "name": "NeurIPS 2026",
+  "description": "Neural Information Processing Systems 2026. Dec 6–12, 2026 · International Convention Centre.",
+  "venue": "NeurIPS 2026",
+  "venueUrl": "https://neurips.cc/Conferences/2026",
+  "steps": [
+    { "label": "Idea Brainstorm",   "status": "pending" },
+    { "label": "Experiment Design", "status": "pending" },
+    { "label": "Running Exp",       "status": "pending" },
+    { "label": "Results",           "status": "pending" },
+    { "label": "Paper Drafting",    "status": "pending" },
+    { "label": "Submission",        "status": "pending" }
+  ],
+  "timeline": [
+    { "label": "Abstract Due",   "date": "2026-05-04" },
+    { "label": "Full Paper Due", "date": "2026-05-06" },
+    { "label": "Notification",   "date": "2026-09-24" },
+    { "label": "Conference",     "date": "2026-12-06" }
+  ]
+}
